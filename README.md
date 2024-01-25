@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Yohan-Baechle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I'm Awais Khan 👋
+![](https://github.com/Yohan-Baechle/Yohan-Baechle/blob/main/welcome1.png?raw=true)
 
-<!---
-Yohan-Baechle/Yohan-Baechle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yohan-Baechle )  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan-Baechle )](https://github.com/anuraghazra/github-readme-stats)
+
