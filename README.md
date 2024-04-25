@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/Yohan Baechlé" target="blank"><img src="https://img.shields.io/twitter/follow/awais-khan?logo=twitter&style=for-the-badge" alt="Yohan Baechlé" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/awais-khan" target="blank"><img src="https://img.shields.io/twitter/follow/awais-khan?logo=twitter&style=for-the-badge" alt="Awais Khan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/awais-khan" target="blank"><img src="https://img.shields.io/twitter/follow/Yohan Baechlé?logo=twitter&style=for-the-badge" alt="Awais Khan" /></a> </p>
 
 
 
