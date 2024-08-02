@@ -16,14 +16,11 @@ As a Bachelor of Computer Science graduate with proficiency in Java, Javascript,
 allow me to bring fresh insights and contribute to the dynamic challenges of the tech industry. Motivated to learn from senior
 engineers and to provide error-free deliverables
 
-## 👨‍💻 Skills & Experiance: 
-✅ Java, Git, Python, JavaScript, Swift programming. <br>
-✅ HTML/CSS, Agile development methodologies, Data Structures and Algorithms. <br>
-✅ Object-Oriented Programming (OOP). <br>
-✅ Software Development Lifecycle (SDLC). <br>
-✅ Web Development Frameworks (e.g., React. <br>
-✅ Network Security and Threat Analysis, Cryptography and Access Control. <br>
-✅ Web Application Security and Vulnerability Assessment, Intrusion Detection and Incident Response. <br>
+## 👨‍💻 Skills & Experience: 
+✅ HTML, CSS, Bootstrap. <br>
+✅ WordPress Website Designer <br>
+✅ PHP, SQL, Laravel, <br>
+✅ Javascript and React <br>
 
 
 
