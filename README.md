@@ -4,13 +4,7 @@
 
 ## 🚀 About Me:
 
-Passionate, determined and motivated software engineer with over a year of hands on experience implementing machine
-learning algorithms, designing and developing software tools for data analysis. With sufficient experience of front-end and
-back-end development projects.
-
-As a Bachelor of Computer Science graduate with proficiency in Java, Javascript, Python as well as SQL and Django, would
-allow me to bring fresh insights and contribute to the dynamic challenges of the tech industry. Motivated to learn from senior
-engineers and to provide error-free deliverables
+Passionate developer exploring the endless possibilities of code 💻. Committed to crafting efficient and elegant solutions to real-world problems 🛠️. Proficient in multiple programming languages 🌐 and always eager to learn 📚. Join me on this coding journey! 🤝"
 
 ## 👨‍💻 Skills & Experience:
 
