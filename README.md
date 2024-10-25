@@ -19,7 +19,7 @@ engineers and to provide error-free deliverables
 ✅ PHP, SQL, Laravel, <br>
 ✅ Javascript and React <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan-Baechle)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yohan-Baechle&show_icons=true&theme=transparent)
 
 ## ☕ Connect with me!
 
