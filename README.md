@@ -1,4 +1,4 @@
-## Hi, I'm Yohan Baechlé 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi!+I'm+YOHAN+BAECHL%C3%89+" alt="Typing SVG" /></a></h1>
 
 ![](https://github.com/Yohan-Baechle/Yohan-Baechle/blob/main/banner.jpg?raw=true)
 
@@ -8,17 +8,13 @@ Passionate developer exploring the endless possibilities of code 💻. Committed
 
 ## 👨‍💻 Skills & Experience:
 
-✅ HTML, CSS, Bootstrap. <br>
-✅ WordPress Website Designer <br>
-✅ PHP, SQL, Laravel, <br>
-✅ Javascript and React <br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,php,laravel,mysql,js,react,wordpress&perline=5)](https://skillicons.dev)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Yohan-Baechle&theme=transparent" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yohan-Baechle&layout=compact&langs_count=8&card_width=320" />
-</a> -->
+![image]({https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white})
+
+## ⚡ Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yohan-Baechle&theme=transparent)](https://git.io/streak-stats)
 
 ## ☕ Connect with me!
 
