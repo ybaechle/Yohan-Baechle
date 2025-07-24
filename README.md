@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi!+I'm+YOHAN+BAECHL%C3%89+" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img align="top" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32" alt="Emoji hand"/>&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&width=435&lines=Hi!+I'm+YOHAN+BAECHL%C3%89" alt="Typing SVG" /></h1>
 
 ![](https://github.com/Yohan-Baechle/Yohan-Baechle/blob/main/banner.jpg?raw=true)
 
@@ -9,8 +9,6 @@ Passionate developer exploring the endless possibilities of code 💻. Committed
 ## 👨‍💻 Skills & Experience:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,php,laravel,mysql,js,react,wordpress&perline=5)](https://skillicons.dev)
-
-![image]({https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white})
 
 ## ⚡ Stats
 
