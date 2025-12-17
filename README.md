@@ -12,7 +12,7 @@ Passionate developer exploring the endless possibilities of code 💻. Committed
 
 ## ⚡ Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yohan-Baechle&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yohan-Baechle&theme=outrun&hide_border=true)](https://git.io/streak-stats)
 
 ## 🐍 My contributions
 
