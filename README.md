@@ -5,7 +5,7 @@
   width="100%"
 />
 
-# Yohan Baechle
+# Yohan Baechlé
 
 ### Build. Ship. Secure.
 
@@ -24,11 +24,11 @@ and I'm going deeper into cloud infrastructure and security.
 const yohan = {
   role:     "Full-stack developer · MSc Cloud & Cybersecurity @ Epitech",
   building: ["TypeScript", "Laravel", "Symfony", "React", "Next.js", "Flutter"],
-  breaking: ["Cloud", "Security", "Linux", "Networking"], // I break codes. Both kinds.
+  breaking: ["Cloud", "Security", "Linux", "Networking"],
 } as const;
 ```
 
-<img src="https://skillicons.dev/icons?i=ts,laravel,symfony,react,nextjs,flutter,docker,mysql&theme=dark&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,laravel,symfony,react,nextjs,flutter,docker,postgres&theme=dark&perline=8" alt="Tech stack" />
 
 <br/>
 <br/>
