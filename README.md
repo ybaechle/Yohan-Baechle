@@ -36,12 +36,20 @@ const yohan = {
 <!-- ─────────────────────────────  STATS  ────────────────────────────── -->
 ### // activity
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yohan-Baechle&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=6C63FF&icon_color=00D8FF&hide=issues" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yohan-Baechle&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=6C63FF&icon_color=00D8FF&hide=issues" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Most used languages" width="49%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yohan-Baechle&hide_border=true&area=true&theme=tokyo-night&color=6C63FF&line=00D8FF&point=ffffff&height=250" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yohan-Baechle&hide_border=true&area=true&theme=github-light&color=6C63FF&line=00D8FF&height=250" alt="Contribution activity" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" width="99%" />
 </picture>
+
+</div>
