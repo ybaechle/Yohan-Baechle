@@ -1,55 +1,58 @@
-<!-- ─────────────────────────────  HEADER  ───────────────────────────── -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D8FF&height=3&width=100%"
-  alt=""
-  width="100%"
-/>
-
 # Yohan Baechlé
 
-### Build. Ship. Secure.
+**Développeur full-stack** en route vers le **cloud & la cybersécurité** — MSc Pro à Epitech (Nancy).
 
-**Full-stack developer** and **MSc Cloud &amp; Cybersecurity** student at **Epitech**.
-I build web and mobile apps with **TypeScript**, **Laravel** and **Flutter**,
-and I'm going deeper into cloud infrastructure and security.
+Je conçois des applications web et mobile de bout en bout, et je passe autant de temps sur
+le code que sur ce qui le fait tourner : conteneurs, CI/CD, infrastructure et sécurité.
 
-📍 France · [LinkedIn](https://www.linkedin.com/in/yohanbaechle/) · [Email](mailto:baechle.yohan@gmail.com)
+📍 France · [LinkedIn](https://www.linkedin.com/in/yohanbaechle/) · [baechle.yohan@gmail.com](mailto:baechle.yohan@gmail.com)
 
-<br/>
+---
 
-<!-- ─────────────────────────────  WHOAMI  ───────────────────────────── -->
-### // stack
+### Ce que je fais
 
-```ts
-const yohan = {
-  role:     "Full-stack developer · MSc Cloud & Cybersecurity @ Epitech",
-  building: ["TypeScript", "Laravel", "Symfony", "React", "Next.js", "Flutter"],
-  breaking: ["Cloud", "Security", "Linux", "Networking"],
-} as const;
-```
+- **Full-stack** — Symfony / Laravel côté back, React / Next.js / Vue côté front, Flutter sur mobile.
+- **DevOps & Cloud** — Docker, Kubernetes, GitOps (Helm), CI/CD GitHub Actions, provisionnement Ansible.
+- **Infra & sécurité** — réseaux, Linux, pare-feu (pfSense), VPN, observabilité, virtualisation (Proxmox).
 
-<img src="https://skillicons.dev/icons?i=ts,laravel,symfony,react,nextjs,flutter,docker,postgres&theme=dark&perline=8" alt="Tech stack" />
+### Stack
 
-<br/>
-<br/>
+**Langages** · TypeScript · PHP · Python · Dart · Java · Bash
+**Back** · Symfony · Laravel · FastAPI
+**Front** · React · Next.js · Vue / Nuxt · Flutter
+**Ops** · Docker · Kubernetes · Helm · Ansible · GitHub Actions · PostgreSQL · Linux
 
-<!-- ─────────────────────────────  STATS  ────────────────────────────── -->
-### // activity
+<img src="https://skillicons.dev/icons?i=ts,php,python,symfony,laravel,react,nextjs,vue,flutter,docker,kubernetes,ansible,githubactions,postgres,linux,git&perline=8" alt="Stack technique" />
+
+---
+
+### Projets
+
+| Projet | Ce que c'est | Stack |
+| --- | --- | --- |
+| **[kubequest](https://github.com/Yohan-Baechle/kubequest)** | Cluster Kubernetes complet sur AWS + migration d'une app docker-compose vers un déploiement GitOps | Kubernetes · Helm · Ansible · AWS |
+| **[T-NSA-CIA](https://github.com/Yohan-Baechle/T-NSA-810)** | Infrastructure hybride multi-sites : firewall pfSense, VPN site-to-site, IPAM NetBox, observabilité | Proxmox · pfSense · Ansible · Elasticsearch |
+| **[zenmanager](https://github.com/Yohan-Baechle/zenmanager)** | Application de gestion du temps, back Symfony / front React, conteneurisée avec CI | Symfony · React · Docker |
+| **[vivre-pleinement](https://github.com/Yohan-Baechle/vivre-pleinement)** | Site professionnel Laravel avec pipeline CI/CD | Laravel · Docker · GitHub Actions |
+
+---
+
+### Activité
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="Statistiques GitHub" width="49%" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Most used languages" width="49%" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Langages les plus utilisés" width="49%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
-  <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" width="99%" />
+  <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Heures productives" width="99%" />
 </picture>
 
 </div>
